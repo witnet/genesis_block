@@ -14,13 +14,13 @@
         ],
         [
             {
-                "address": "twit1dkvetr965jgv4jajekw2eezw2lekdznsdwqlej",
-                "value": "500000000000",
+                "address": "twit1ec9xzm4tgjg994s7g73wr7plj5n2emnty70320",
+                "value": "555444333222111000",
                 "timelock": "0"
             },
             {
-                "address": "twit1xcnvlz3nl7mclfx74encxmpax2h9wwzzfz9ql8",
-                "value": "500000000000",
+                "address": "twit1xpcuk9les7hg52p2hx4kz7mycwz0kn3zw330p4",
+                "value": "555444333222111000",
                 "timelock": "0"
             }
         ]
