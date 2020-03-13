@@ -1,0 +1,208 @@
+{
+    "alloc": [
+        [
+            {
+                "address": "twit1adgt8t2h3xnu358f76zxlph0urf2ev7cd78ggc",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit103clhyyjv37v4qzwyxwl0njdqs3uzvk29vkchw",
+                "value": "1000000000000000",
+                "timelock": "0"
+            }
+        ],
+        [
+            {
+                "address": "twit1ec9xzm4tgjg994s7g73wr7plj5n2emnty70320",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1xpcuk9les7hg52p2hx4kz7mycwz0kn3zw330p4",
+                "value": "1000000000000000",
+                "timelock": "0"
+            }
+        ],
+        [
+            {
+                "address": "twit197y2q27rtk062s6w40kk7x7kr7qx26s03qex70",
+                "value": "1000000000000000",
+                "timelock": "0"
+            }
+        ],
+        [
+            {
+                "address": "twit162ve92y4fm23944s52gtqexcxw4vlap2aq2qe7",
+                "value": "1000000000000000",
+                "timelock": "0"
+            }
+        ],
+        [
+            {
+                "address": "twit1prsv83gemeg0kv26amyxr4ne7gpuyy79gln90w",
+                "value": "1000000000000000",
+                "timelock": "0"
+            }
+        ],
+        [
+            {
+                "address": "twit1ap80xlmp3jkx7hj0aeex5h66deftl0359vzs4s",
+                "value": "1000000000000000",
+                "timelock": "0"
+            }
+        ],
+        [
+            {
+                "address": "twit1janr955tahdqwyjkysjlqlj38vg9stsphha0ax",
+                "value": "1000000000000000",
+                "timelock": "0"
+            }
+        ],
+        [
+            {
+                "address": "twit1nhnah022ktvku4hhkxjdwmshlkmhdsqu0mtrrh",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit12vntqn043t6yxpptugfywa025rys56lf8kjkgy",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1xtj6zv000a2dhf9lkag6wmnukwjclwyu60t5gd",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit12gz5kvdvpxz957gadzth7rzz006kn9nznw69pc",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1lcm3jaz8gl3xr8urrd0g9mqz7xpuq8dfnzpg53",
+                "value": "1000000000000000",
+                "timelock": "0"
+            }
+        ],
+        [
+            {
+                "address": "twit14vru0z8wa5ju4r6tt3vjpa508kphg4dcqnajtn",
+                "value": "1000000000000000",
+                "timelock": "0"
+            }
+        ],
+        [
+            {
+                "address": "twit1n28rggnw3fz0e0dw657twc5qjv3q65xczqlywk",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1rwkrw8kcje3ccj3puk8eq9np64wqh7t3lh0k2a",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1dqalakt20w65e4yr2y28ug626ldjxnnnm8j8j7",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1ess30d7tsw0rwa2dhhh759gtvd337mmprx50u0",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1ng3erslasca2flu38npxt8dp7xa8plj9zv2xsj",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1psu7dupcugt4p6laww94ukhp9ga97samaxwgea",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1hsz5dfwp7t9g6wdfk3hptkwepcru3a6nw37ha7",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1f2rm2duwk404sjrs36f40ddtrge7k39jqnnq96",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1qvddtlxn4fh450kxycg4ze8c7d55vk69j3w2us",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1tw7y9mfgejhzfcfe5tdg6tvv879ytxra2d9qgz",
+                "value": "1000000000000000",
+                "timelock": "0"
+            }
+        ],
+        [
+            {
+                "address": "twit1lgtwgp6q3n903xp409ywyq8rcjzzctana4fl9j",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1fx9ae2zdwghuwh3845jsxywlv8pkjq7xw4n9df",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1f45tszhehwxpaz2xk8y254qrz0pxg6x4x60lf6",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1sk4mhxtd8gpx0a2vjeryrdacyraxgsquyfxnu5",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1xscf7rt5q2743zd6qvr9pencgqjzur96ayc3tn",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1tqc27s0wqdflmaml0gmu5k6sn62ru95dkj9unq",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit172ra5n5zm9j95ka97ldwkl6r980qldrgxrer0w",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1crcz6s25ww3l7340ww4fvpzpdu4ye3jhu6hmn2",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit18fwyx2kwu3jlunrjgc0t7wsmfsdclz9c8catf2",
+                "value": "1000000000000000",
+                "timelock": "0"
+            },
+            {
+                "address": "twit1rq8e0atfjq5cphhj8teu7vgdmc0e0pmzyefnae",
+                "value": "1000000000000000",
+                "timelock": "0"
+            }
+        ],
+        [
+            {
+                "address": "twit1p0tmq9mwptq4p3yq3nu4qeg78fz5ysunazr30h",
+                "value": "1000000000000000",
+                "timelock": "0"
+            }
+        ]
+    ]
+}
